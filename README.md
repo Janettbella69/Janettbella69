@@ -7,6 +7,7 @@
   独立完成的 Agent 系统，对标 ChatGPT Shopping Research。
   
   | **Agent Loop** | OODA 自主研究循环，非固定 pipeline |
+  
   | **Harness** | 8 种 Hook 运行时控制，Agent 做决策，Harness 管边界 |
   | **Memory** | PreCompact 持久化研究状态，防止长链路信息丢失 |
   | **Multi-Agent** | Orchestrator + Scraper 子代理并行协作 |
