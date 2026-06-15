@@ -19,8 +19,4 @@
   🔗 **体验：** [azorashopping.site](https://azorashopping.site)
   📦 **代码 & 详细架构：** [AIAzora-v3](https://github.com/Janettbella69/AIAzora-v3)
 
-  ## Contact
-  扫码加微信，欢迎交流 Agent 架构 / AI 产品 / 出海方向
-  
-![微信图片_20260411013402_180_100](https://github.com/user-attachments/assets/8be76f7e-b440-4c74-800e-38b7539a8e64)
 
