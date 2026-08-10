@@ -1,6 +1,6 @@
  Hi, 我是 Janettbella
 
-  AI Product Builder · 前-Temu (PDD) 
+  AI Product Builder 
 
   ## AIAzora — AI Shopping Research Agent
 
