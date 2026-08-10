@@ -1,22 +1,20 @@
- Hi, 我是 Janettbella
+Hi, I’m Janettbella, an AI Product Builder.
 
-  AI Product Builder 
+AIAzora — AI Shopping Research Agent
 
-  ## AIAzora — AI Shopping Research Agent
+An independently built agentic system benchmarked against ChatGPT Shopping Research.
 
-  独立完成的 Agent 系统，对标 ChatGPT Shopping Research。
-  
-  **Agent Loop** : OODA 自主研究循环，非固定 pipeline 
-  
-  **Harness** : 8 种 Hook 运行时控制，Agent 做决策，Harness 管边界 
-  
-  **Memory** : PreCompact 持久化研究状态，防止长链路信息丢失 
-  
-  **Multi-Agent** : Orchestrator + Scraper 子代理并行协作 
-  
-  **Agent-as-Judge** : 14 graders（10 code + 4 LLM judges），持续验证输出质量 
+Agent Loop: An autonomous OODA research loop rather than a fixed pipeline
 
-  🔗 **体验：** [azorashopping.site](https://azorashopping.site)
-  📦 **代码 & 详细架构：** [AIAzora-v3](https://github.com/Janettbella69/AIAzora-v3)
+Harness: Runtime control through eight types of hooks—the agent makes decisions while the harness enforces boundaries
+
+Memory: PreCompact persists research state to prevent information loss during long-running tasks
+
+Multi-Agent: Parallel collaboration between an orchestrator and scraper sub-agents
+
+Agent-as-Judge: 14 graders—10 code-based graders and 4 LLM judges—continuously evaluate output quality
+
+🔗 Live Demo: azorashopping.site
+📦 Source Code & Architecture: AIAzora-v3
 
 
